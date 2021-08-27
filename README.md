@@ -4,6 +4,6 @@ Snake Water Gun is one of the famous two-player game played by many people. It i
 
 # Rules:
 <b>Snake wins over water, looses from gun!</b><br>
-<b>Water wins over gun, looses from snake</b><br>
-<b>Gun wins over snake, looses from water</b><br>
+<b>Water wins over gun, looses from snake!</b><br>
+<b>Gun wins over snake, looses from water!</b><br>
 
