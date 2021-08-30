@@ -13,7 +13,7 @@ def main ():
 
     while True:
         try:
-            chances = int(input("\nHow many guesses you want to make (number of chances you want)?: "))
+            chances = int(input("\nHow many times you want to play?: "))
 
         except ValueError:
             end = input("Enter a valid number. If you want to exit game, press 'q'")
